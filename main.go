@@ -4,9 +4,8 @@ import (
 	"context"
 	"flag"
 	"log"
+	"mcp-server-scanner/pkg/listtools"
 	"time"
-
-	"github.com/mcp-server-scanner/pkg/listtools"
 )
 
 func main() {
